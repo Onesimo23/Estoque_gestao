@@ -1,4 +1,4 @@
-# Aplicativo3 (claudio-zito-ussimane)
+# Crud Quasar com express para backend (José Onésimo Abel Nuvunga)
 
 Aplicativo3
 
